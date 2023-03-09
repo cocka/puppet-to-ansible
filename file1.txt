@@ -1,1 +1,5 @@
 lalala
+<<<<<<< HEAD
+changing file 1
+=======
+>>>>>>> 2d32d76... Uploading file1
